@@ -21,6 +21,6 @@ Open Source Contributions
 - 💞️ I believe in the power of open-source software and the collaborative nature of the developer community. While I am new to GitHub, I look forward to making valuable contributions to open-source projects in the future.
 
 Get in Touch
-- 📫 I'm always excited to connect with fellow developers, students, or anyone interested in technology. If you want to discuss programming, collaborate on projects, or have a chat, feel free to reach out to me via email at rsingh.py@gmail.com. You can also find me on <a href="www.linkedin.com/in/rohit-singh-a59407274">LinkedIn</a> for professional networking.
+- 📫 I'm always excited to connect with fellow developers, students, or anyone interested in technology. If you want to discuss programming, collaborate on projects, or have a chat, feel free to reach out to me via email at rsingh.py@gmail.com. You can also find me on <a href="https://www.linkedin.com/in/rohit-singh-a59407274">LinkedIn</a> for professional networking.
 
 Let's learn, grow, and create amazing things together! 🚀
