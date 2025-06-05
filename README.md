@@ -3,7 +3,7 @@
 
 I’ve built and contributed to several projects, including:
 
-🎵 A music player built with Django, deployed on AWS EC2
+🎵 A music player built with Django, deployed on pythonanywhere. -> <a href="https://rohiyaa.pythonanywhere.com/">Visit.</a> prior it was in AWS EC2
 
 🧭 FindMyClass – a JavaScript-based tool to help students navigate campus
 
