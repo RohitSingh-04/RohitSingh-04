@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Rohit Singh</h1>
-<p>I’m a final-year BCA student with a strong academic record (8.8 CGPA) and hands-on experience in backend development, Agile methodologies, and building real-world applications. During my internship at Infosys Springboard, I worked as a Python Backend Developer for a fashion e-commerce platform, and later took on the role of Scrum Master — successfully leading sprint planning, ensuring timely deliverables, and improving team productivity.
+<p>I’m a BCA graduate and hands-on experience in backend development, Agile methodologies, and building real-world applications. During my internship at Infosys Springboard, I worked as a Python Backend Developer for a fashion e-commerce platform, and later took on the role of Scrum Master — successfully leading sprint planning, ensuring timely deliverables, and improving team productivity.
 
 I’ve built and contributed to several projects, including:
 
