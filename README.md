@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m a Python Developer & BCA graduate and hands-on experience in backend development, Agile methodologies, and building real-world applications.</p>
+<p align="left">I’m a Python Developer with hands-on experience in backend development, Agile methodologies, and building real-world applications. Currently working as a Associate Analyst @Deloitte</p>
 
 ###
 
