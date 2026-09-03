@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📍India<br>📚 I'm currently learning DevOps</p>
+<p align="left">✨ Creating bugs since 2020<br>📍India</p>
 
 ###
 
